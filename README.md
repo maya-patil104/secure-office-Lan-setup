@@ -1,1 +1,2 @@
 # secure-office-Lan-setup
+This project demonstrates the setup of a *secure Local Area Network (LAN)* for an office environment using Cisco Packet Tracer. The network is divided into departments such as HR, IT, Marketing, and Sales using **VLANs. It includes routing, DHCP configuration, **Inter-VLAN communication, **ACL for security, **NAT for internet access, and **SSH for remote router management*![Screenshot 2025-07-07 214931](https://github.com/user-attachments/assets/b384b0c2-9900-459a-be49-55ace96f8316)
